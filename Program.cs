@@ -1,0 +1,4 @@
+﻿
+    new Galactica.GUI().InputData();
+
+
